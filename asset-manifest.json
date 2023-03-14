@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/visual-rhetorical-analysis/static/css/main.f9190b22.css",
-    "main.js": "/visual-rhetorical-analysis/static/js/main.c317c23a.js",
-    "static/media/i2_ad.png": "/visual-rhetorical-analysis/static/media/i2_ad.9d06ddcfc579c20601f0.png",
-    "index.html": "/visual-rhetorical-analysis/index.html",
-    "main.f9190b22.css.map": "/visual-rhetorical-analysis/static/css/main.f9190b22.css.map",
-    "main.c317c23a.js.map": "/visual-rhetorical-analysis/static/js/main.c317c23a.js.map"
+    "main.css": "/Visual-Rhetorical-Analysis/static/css/main.f9190b22.css",
+    "main.js": "/Visual-Rhetorical-Analysis/static/js/main.6ddab7ab.js",
+    "static/media/i2_ad.png": "/Visual-Rhetorical-Analysis/static/media/i2_ad.9d06ddcfc579c20601f0.png",
+    "index.html": "/Visual-Rhetorical-Analysis/index.html",
+    "main.f9190b22.css.map": "/Visual-Rhetorical-Analysis/static/css/main.f9190b22.css.map",
+    "main.6ddab7ab.js.map": "/Visual-Rhetorical-Analysis/static/js/main.6ddab7ab.js.map"
   },
   "entrypoints": [
     "static/css/main.f9190b22.css",
-    "static/js/main.c317c23a.js"
+    "static/js/main.6ddab7ab.js"
   ]
 }
