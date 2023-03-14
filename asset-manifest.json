@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Visual-Rhetorical-Analysis/static/css/main.f9190b22.css",
-    "main.js": "/Visual-Rhetorical-Analysis/static/js/main.6ddab7ab.js",
+    "main.js": "/Visual-Rhetorical-Analysis/static/js/main.c494cd3a.js",
     "static/media/i2_ad.png": "/Visual-Rhetorical-Analysis/static/media/i2_ad.9d06ddcfc579c20601f0.png",
     "index.html": "/Visual-Rhetorical-Analysis/index.html",
     "main.f9190b22.css.map": "/Visual-Rhetorical-Analysis/static/css/main.f9190b22.css.map",
-    "main.6ddab7ab.js.map": "/Visual-Rhetorical-Analysis/static/js/main.6ddab7ab.js.map"
+    "main.c494cd3a.js.map": "/Visual-Rhetorical-Analysis/static/js/main.c494cd3a.js.map"
   },
   "entrypoints": [
     "static/css/main.f9190b22.css",
-    "static/js/main.6ddab7ab.js"
+    "static/js/main.c494cd3a.js"
   ]
 }
